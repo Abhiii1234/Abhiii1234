@@ -35,11 +35,11 @@ I'm passionate about learning, building cool things, and collaborating with deve
   <img src="https://github-contribution-chart-api.fly.dev/render?user=Abhiii1234&theme=radical" alt="Contribution Chart" />
 </p>
 
-## 📫 Connect with Me
+### 📫 Connect with Me
+- **LinkedIn:** [Abhigyan Pushkar](https://www.linkedin.com/in/abhigyan-pushkar-778420266/)
+- **Email:** [smartabhi0004@gmail.com](mailto:smartabhi0004@gmail.com)
+- **Codolio:** [Abhigyan Pushkar](https://codolio.com/profile/Abhigyan_Pushkar/card)
 
-- [LinkedIn](#) <https://www.linkedin.com/in/abhigyan-pushkar-778420266/>
-- Gmail: <smartabhi0004@gmail.com>
-- [Codolio](#) <https://codolio.com/profile/Abhigyan_Pushkar/card>
 
 
 
