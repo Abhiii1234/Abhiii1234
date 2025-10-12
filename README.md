@@ -37,15 +37,11 @@ I'm passionate about learning, building cool things, and collaborating with deve
 
 ## 📫 Connect with Me
 
-- [LinkedIn](#) <!-- add your link -->
-- Gmail: <!-- add your email -->
-- [Codolio](#) <!-- add your profile link -->
+- [LinkedIn](#) https://www.linkedin.com/in/abhigyan-pushkar-778420266/
+- Gmail: smartabhi0004@gmail.com
+- [Codolio](#) https://codolio.com/profile/Abhigyan_Pushkar/card
 
-## 🌐 More Links
 
-- [Portfolio](#) <!-- Add your site -->
-- [Twitter/X](#) <!-- Add your handle -->
-- [Blog](#) <!-- Add your blog link -->
 
 ## ⚡ Fun Facts
 
