@@ -9,11 +9,19 @@ I'm passionate about learning, building cool things, and collaborating with deve
 - 🌱 Currently learning and growing every day.
 - 🤝 Always open to collaboration and new ideas.
 
-## 🛠️ Skills & Tools
+##🛠️ Skills & Tools
 
-- Programming: Python, JavaScript, C++ <!-- Add your favorite languages here! -->
-- Frameworks & Libraries: React, Node.js, Django <!-- List any you want to showcase. -->
-- Tools: Git, VS Code, GitHub Actions, Docker
+Frontend & UI/UX: React.js, HTML5, CSS3, JavaScript (ES6+), Figma, Adobe XD, UI Design, UX Design, User Research, Wireframing, Prototyping, Responsive Design, Accessibility (WCAG), Web Analytics, Design Systems, A/B Testing, Micro-interactions
+
+Programming Languages: Java, Python, C++, C, SQL, PHP, Golang, Shell Script
+
+Frameworks & Tools: Spring Boot, Node.js, Angular, Django, REST APIs, jQuery, Apache Kafka, Segment
+
+Databases: MySQL, PostgreSQL, MongoDB, Oracle
+
+DevOps & Cloud: Git, Docker, CI/CD, Kubernetes, AWS, GCP, Azure DevOps
+
+Soft Skills: Design Thinking, Collaboration, Communication, Problem Solving, Agile Workflow
 
 ## 🌟 Featured Projects
 
