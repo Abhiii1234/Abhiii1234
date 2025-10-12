@@ -23,11 +23,7 @@ DevOps & Cloud: Git, Docker, CI/CD, Kubernetes, AWS, GCP, Azure DevOps
 
 Soft Skills: Design Thinking, Collaboration, Communication, Problem Solving, Agile Workflow
 
-## 🌟 Featured Projects
 
-| Project Name     | Description                        | Repo Link                               |
-|------------------|------------------------------------|-----------------------------------------|
-| ExampleProject   | A short description of something cool | [Repo](https://github.com/Abhiii1234)  |
 
 ## 📈 GitHub Stats
 
