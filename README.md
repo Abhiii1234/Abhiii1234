@@ -34,10 +34,11 @@ Soft Skills: Design Thinking, Collaboration, Communication, Problem Solving, Agi
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhiii1234&theme=radical" alt="Profile Summary Card" />
   <br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Abhiii1234&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiii1234&theme=radical" alt="GitHub Activity Graph" />
   <br>
   <img src="https://github-contribution-chart-api.fly.dev/render?user=Abhiii1234&theme=radical" alt="Contribution Chart" />
 </p>
+
 
 ### 📫 Connect with Me
 - **LinkedIn:** [Abhigyan Pushkar](https://www.linkedin.com/in/abhigyan-pushkar-778420266/)
