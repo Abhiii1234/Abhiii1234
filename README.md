@@ -9,7 +9,7 @@ I'm passionate about learning, building cool things, and collaborating with deve
 - 🌱 Currently learning and growing every day.
 - 🤝 Always open to collaboration and new ideas.
 
-##🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 Frontend & UI/UX: React.js, HTML5, CSS3, JavaScript (ES6+), Figma, Adobe XD, UI Design, UX Design, User Research, Wireframing, Prototyping, Responsive Design, Accessibility (WCAG), Web Analytics, Design Systems, A/B Testing, Micro-interactions
 
