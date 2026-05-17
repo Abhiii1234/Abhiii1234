@@ -29,8 +29,7 @@ Soft Skills: Design Thinking, Collaboration, Communication, Problem Solving, Agi
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiii1234&show_icons=true&theme=radical" alt="Abhiii1234's GitHub stats" />
-  <br>
+ 
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhiii1234&theme=radical" alt="GitHub Streak" />
   <br>
@@ -41,7 +40,7 @@ Soft Skills: Design Thinking, Collaboration, Communication, Problem Solving, Agi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiii1234&theme=radical" alt="GitHub Activity Graph" />
   <br>
 
-  <img src="https://github-contribution-chart-api.fly.dev/render?user=Abhiii1234&theme=radical" alt="Contribution Chart" />
+ 
 
 </div>
 
